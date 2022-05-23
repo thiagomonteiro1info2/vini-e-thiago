@@ -1,0 +1,170 @@
+* {
+  box-sizing: border-box;
+}
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+  border: 1px dashed rgb(255, 255, 255);
+}
+
+.col-1 {
+  width: 8.33%;
+}
+.col-2 {
+  width: 16.66%;
+}
+.col-3 {
+  width: 25%;
+}
+.col-4 {
+  width: 33.33%;
+}
+.col-5 {
+  width: 41.66%;
+}
+.col-6 {
+  width: 50%;
+}
+.col-7 {
+  width: 58.33%;
+}
+.col-8 {
+  width: 66.66%;
+}
+.col-9 {
+  width: 75%;
+}
+.col-10 {
+  width: 83.33%;
+}
+.col-11 {
+  width: 91.66%;
+}
+.col-12 {
+  width: 100%;
+}
+
+#logo {
+  height: 70px;
+  display: block;
+  margin: 0;
+  width: 100%;
+}
+
+#titulo-principal {
+  text-align: center;
+  height: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(255, 255, 255);
+}
+
+nav ul {
+  list-style-type: disc;
+  padding: 0;
+  color: rgb(255, 255, 255);
+}
+nav li {
+  display: inline;
+  color: rgb(255, 255, 255);
+  padding: 70px;
+}
+
+#produtos h4 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(235, 235, 235);
+  margin: 10px;
+}
+
+.destaque img {
+  width: 100%;
+  padding: auto;
+  align-items: center;
+  float: block;
+}
+.destaque h6 {
+  height: 20%;
+  text-align: center;
+  font-size: large;
+  color: #ffffff;
+}
+
+.destaque2 img {
+  width: 80%;
+  padding: auto;
+  align-items: center;
+  margin-left: 40px;
+}
+
+.destaque2 h6 {
+  height: 20%;
+  text-align: center;
+  font-size: large;
+  margin-top: 25px;
+  color: #ffffff;
+}
+
+#descontos h5 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  font-size: 1.5em;
+  text-decoration: dashed;
+  color: rgb(255, 255, 255);
+}
+
+.adidas img {
+  width: 100%;
+}
+.adidas h4 {
+  text-align: center;
+  color: white;
+}
+.adidas p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 1em;
+  color: #ffffff;
+  font-weight: 200;
+}
+
+.pulma img {
+  width: 100%;
+  height: 243px;
+}
+
+.pulma h4 {
+  text-align: center;
+  color: #ffffff;
+}
+.pulma p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 1em;
+  color: #ffffff;
+  font-weight: 200;
+}
+
+.olympikus img {
+  width: 100%;
+}
+.olympikus h4 {
+  text-align: center;
+  color: #ffffff;
+}
+.olympikus p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 1em;
+  color: #ffffff;
+  font-weight: 200;
+}
+.propaganda img {
+  width: 300px;
+  height: 1160px;
+}
+.footer {
+  color: #ffffff;
+}
